@@ -16,7 +16,7 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- if post.splash -%}
-          <img src="{{ post.splash }}" />
+          <img src="{{ post.splash | relative_url }}" />
         {%- endif -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
