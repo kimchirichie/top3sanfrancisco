@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     {%- if page.splash -%}
-      <img class="post-splash" src="{{page.splash}}" />
+      <img class="post-splash" src="{{ page.splash | relative_url }}" />
     {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
