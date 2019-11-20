@@ -21,7 +21,7 @@ Good things come to those who wait.. or come early. There are no reservations fo
 
 Personal experience - its best to put your name down 30-40 mins before you plan to eat. Remeber, if you are not present when your name is called, you'll be sent back of the line!
 
-![Brunch time wait lines outside]({{ "/assets/images/cole-valley-zazie/long-wait-lines.jpg" | relative_url }})
+![Brunch time wait lines outside](./assets/images/cole-valley-zazie/long-wait-lines.jpg)
 
 ### Grab a Drink at Finnegans Wake
 
@@ -31,7 +31,7 @@ Luckily, Zazie has an option for all of its hungry patrons to wait inside [Finne
 
 Zazie delivers more than just delicious meals. Believe it or not - you can taste the coziness in each wine sip and not be expected to tip! Zazie spearheaded the Tip Free movement, taking tips out of the equation in favor of living wages and revenue shares for everyone. Zazie claims 25% of every menu item at Zazie is paid out directly to staff as revenue share, and [no tips are expected][no-tips-expected].
 
-![The ahi salad]({{ "/assets/images/cole-valley-zazie/salad.jpg" | relative_url }})
+![The ahi salad](./assets/images/cole-valley-zazie/salad.jpg)
 
 ### If You Want to Do Brunch Right, Get the French Toast Tahiti
 
@@ -41,7 +41,7 @@ The griddle game at Zazie is unreal. The most savory of them all is definitely t
 
 These were the words of a local, when asked for comments on the dish. Truly, the nutty creamy sauce with the banana aroma is a dynamic duo that combines really wonderfully with the soft and chewy french toast.
 
-![The french toast]({{ "/assets/images/cole-valley-zazie/french-toast.jpg" | relative_url }})
+![The french toast](./assets/images/cole-valley-zazie/french-toast.jpg)
 
 
 ### Grab the Back Patio for Dinner
@@ -52,7 +52,7 @@ Big Tip! if you come back for dinner, grab the back patio seats! Amazing vibes h
 
 [No corkage fee on Tuesday night][zazie-dinner-menu] - be sure to bring your own favourite wine. Otherwise, you can pair up with a wine from Zazie selection of small, family owned winemakers with less than 500 case productions.
 
-![Very cozy heated patio in the back]({{ "/assets/images/cole-valley-zazie/back-patio.jpg" | relative_url }})
+![Very cozy heated patio in the back](./assets/images/cole-valley-zazie/back-patio.jpg)
 
 [zazie-website]: https://www.zaziesf.com
 [zagat-zazie-profile]: https://www.zagat.com/r/zazie-san-francisco
