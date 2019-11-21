@@ -23,7 +23,7 @@ email: kimchirichie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Find the top things to do in San Francisco! All corners of
   San francisco adventures blogged in details, in one place!
-baseurl: "/top3sanfrancisco" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.top3sanfrancisco.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kimchirichie
 github_username:  kimchirichie
