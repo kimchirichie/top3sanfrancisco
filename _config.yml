@@ -55,3 +55,5 @@ plugins:
 
 sass:
   style: compressed
+
+google_analytics: UA-153117004-1
