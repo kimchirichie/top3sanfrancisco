@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<div>
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -12,25 +12,38 @@ layout: default
   {%- if site.posts.size > 0 -%}
 
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+
+    <div class="card-columns">
+
       {%- for post in site.posts -%}
-      <li>
-        {%- if post.splash -%}
-          <img src="{{ post.splash | relative_url }}" />
-        {%- endif -%}
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <div class="card">
+
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+
+            {%- if post.splash -%}
+              <img class="card-img-top" src="{{ post.splash | relative_url }}" />
+            {%- endif -%}
+            
+            <div class="card-body">
+              <h3>
+                  {{ post.title | escape }}
+              </h3>
+              {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+              {%- endif -%}
+            </div>
+
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+          
+          <div class="card-footer">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="text-muted">{{ post.date | date: date_format }}</span>          
+          </div>
+
+        </div>
       {%- endfor -%}
-    </ul>
+
+    </div>
 
     <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">

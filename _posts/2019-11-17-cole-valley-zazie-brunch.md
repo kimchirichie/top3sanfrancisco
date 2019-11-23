@@ -4,8 +4,8 @@ title: "This Hidden Brunch Spot in San Francisco Tourists Don't Know About"
 subtitle: "We'll tell you all the local secrets, so you can fit in!"
 author: "Rick Sin"
 date: 2019-11-17 13:03:00 -0800
-categories: destinations food
-tags: brunch dinner
+categories: food
+tags: brunch dinner food
 splash: /assets/images/cole-valley-zazie/store-front-full.jpg
 ---
 
