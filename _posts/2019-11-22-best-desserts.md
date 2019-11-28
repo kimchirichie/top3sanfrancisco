@@ -6,7 +6,7 @@ author: "Rick Sin"
 date: 2019-11-22 22:47:00 -0800
 categories: food
 tags: dessert food
-splash: /assets/images/dessert-stores/u-dessert-toast.jpg
+splash: /assets/images/dessert-stores/ice-cream-bar.jpg
 ---
 
 Sometimes you just crave some sweets. You sit there and scroll through the yelp dessert feed but can’t decide. That was me until I discovered these 3 spots.
@@ -45,7 +45,7 @@ You didn’t think bars were cool, until this one. (get it?) [Ice Cream Bar][ice
 
 I only get one flavor in this shop. Banana Puddin. It’s by far my favorite flavor. The subtle banana aroma and the opportune real chunks of banana makes this the highlight of Ice Cream Bar’s selections.
 
-![Ice Cream Bar at night time]({{ "/assets/images/dessert-stores/ice-cream-bar.jpg" | relative_url }})
+![Ice Cream Bar at night time]({{ "/assets/images/dessert-stores/ice-cream-sandwich.jpg" | relative_url }})
 
 
 [na-ya-instagram]: https://www.instagram.com/nayadessertcafe/

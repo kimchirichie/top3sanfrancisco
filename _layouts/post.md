@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="row">
-  <div class="col-8">
+  <div class="col-md-8">
     <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
       <header class="post-header">
@@ -31,7 +31,7 @@ layout: default
       <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
     </article>
   </div>
-  <div class="col-4">
+  <div class="col-md-4">
     
   </div>
 </div>
