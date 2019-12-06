@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Top 3 Hidden Dessert Stores in San Francisco You'll Drool Over"
-subtitle: "Warning: The pictures I'm about to show you requires a bib"
+title: "Treat Yourself! The Best Dessert Spots in San Francisco"
+subtitle: "We're not sharing"
 author: "Rick Sin"
 date: 2019-11-22 22:47:00 -0800
 categories: food

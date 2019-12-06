@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "This Hidden Brunch Spot in San Francisco Tourists Don't Know About"
-subtitle: "We'll tell you all the local secrets, so you can fit in!"
+title: "Top Brunch Spot in Haight Ashbury"
+subtitle: "Secrets Tourists Don't Know About"
 author: "Rick Sin"
 date: 2019-11-17 13:03:00 -0800
 categories: food
