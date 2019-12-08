@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <div class="row">
   <div class="col-md-8">
