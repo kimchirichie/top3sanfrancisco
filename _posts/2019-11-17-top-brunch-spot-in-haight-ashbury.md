@@ -6,7 +6,7 @@ author: "Rick Sin"
 date: 2019-11-17 13:03:00 -0800
 categories: food
 tags: brunch dinner food
-splash: /assets/images/cole-valley-zazie/store-front-full.jpg
+splash: /assets/images/cole-valley-zazie/french-toast.jpg
 ---
 
 So many tourists come, and miss out on the local destinations. Zazie is one of those spots! Whether youre looking to enjoy the perfect bite into San Francisco brunch, or a juicy tender bite of french duck plate for dinner, Zazie can deliver those mouth watering sensations.
@@ -14,6 +14,8 @@ So many tourists come, and miss out on the local destinations. Zazie is one of t
 Zazie serves brunch and dinner every day! (except Christmas). Zazie's famous American style brunch has scored one of the [Best Brunch][zagat-zazie-profile] & their slow braised dinner dishes are exceptional.
 
 Here are some tips to fit in like a local:
+
+![Zazie storefront]({{ "/assets/images/cole-valley-zazie/store-front-full.jpg" | relative_url }})
 
 ### No Reservations for Brunch
 
