@@ -8,7 +8,7 @@ comments: true
 
       <header class="post-header">
         {%- if page.splash -%}
-          <img class="post-splash" src="{{ page.splash | relative_url }}" />
+          <img class="post-splash w-100" src="{{ page.splash | relative_url }}" />
         {%- endif -%}
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
