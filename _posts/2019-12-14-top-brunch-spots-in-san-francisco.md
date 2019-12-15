@@ -9,7 +9,7 @@ tags: brunch food
 splash: /assets/images/top-brunch-spots/zazie-brunch.jpg
 ---
 
-If youre in San Francisco, you better do it right - by brunching with friends. If you want to do San Francisco right, check three hidden brunch venues in San Francisco:
+If you're in San Francisco, you better do it right - by brunching with friends. If you want to do San Francisco right, check three hidden brunch venues in San Francisco:
 
 Nopa
 ----
@@ -27,9 +27,9 @@ Zazie
 -----
 ###### 941 Cole St, San Francisco, CA 94117
 
-So many tourists come, and miss out on the local destinations. Zazie is one of those spots. You have to checkout their famous American style brunch. Zazie's famous American style brunch has [scored one of the highest][zagat-zazie-profile] in the city. The atomosphere is a mix of elegance of Nopa and the coziness of Pork Store Cafe. There are no reservations for brunch. Its absolutely worth the wait; but, be prepared to wait a long line (20-60 mins)! Zazie's brunch seating is first come first serve. Checkout [top brunch spot]({ % post_url 2019-11-17-top-brunch-spot-in-haight-ashbury}) - Zazie blog if you want to know more and head over to Zazie
+So many tourists come, and miss out on the local destinations. Zazie is one of those spots. You have to checkout their famous American style brunch. Zazie's famous American style brunch has [scored one of the highest][zagat-zazie-profile] in the city. The atmosphere is a mix of elegance of Nopa and the coziness of Pork Store Cafe. There are no reservations for brunch. Its absolutely worth the wait; but, be prepared to wait a long line (20-60 mins)! Zazie's brunch seating is first come first serve. Checkout [top brunch spot]({ % post_url 2019-11-17-top-brunch-spot-in-haight-ashbury}) - Zazie blog if you want to know more and head over to Zazie
 
 
-Once youre done brunchin', get munchin' on some of the best [dessert shops nearby]({% post_url 2019-11-22-best-dessert-spots-in-san-francisco %})
+Once you're done brunchin', get munchin' on some of the best [dessert shops nearby]({% post_url 2019-11-22-best-dessert-spots-in-san-francisco %})
 
 [zagat-zazie-profile]: https://www.zagat.com/r/zazie-san-francisco
