@@ -6,11 +6,9 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="container">
-        {{ content }}
-      </div>
-    </main>
+    
+    {{ content }}
+
 
     {%- include footer.html -%}
 
